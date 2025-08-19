@@ -36,7 +36,7 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Santiago Ramirez Diaz, , sa.martinezd1@uniandes.edu.co , 202513123
+1. Santiago Martinez Diaz , sa.martinezd1@uniandes.edu.co , 202513123
 2. Santiago Ortega Arango , s.ortegaa@uniandes.edu.co , 202512899
 3. Sofia Sarasty Concha , s.sarasty@uniandes.edu.co , 202511871
 
