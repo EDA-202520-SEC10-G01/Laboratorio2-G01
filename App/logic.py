@@ -133,10 +133,6 @@ def load_books_tags(catalog, filename):
     :rtype: int
     """
     # TODO: Mods de Est-1, Est-2 y Est-3 en el Lab 2
-    catalog = control["model"]
-    booksfile = os.path.join(cf.data_dir, filename)
-    catalog = model.addBookTags(catalog, booksfile)
-    return model.bookTagsize(catalog)
     booktagfile = os.path.join(data_dir, filename)
     input_file = csv.DictReader(open(booktagfile, encoding="utf-8"))
     catalog = create_book_tag_list(catalog)
